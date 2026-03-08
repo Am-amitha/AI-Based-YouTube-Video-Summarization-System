@@ -40,3 +40,6 @@ AI-Based-YouTube-Video-Summarizer
 ├── requirements.txt
 ├── README.md
 └── project-demo.png
+## Project Demo
+
+![Project Screenshot](project-demo.png)
